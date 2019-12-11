@@ -1,5 +1,5 @@
 body {
-    background-image: url(Background.jpg);
+    background-image: url("./Background.jpg");
     padding-right: 8cm;
     padding-left: 8cm;
     border: white 10px dotted;
@@ -31,8 +31,3 @@ h1 {
     font-weight: bold;
     font-style: italic;
 }
-
-
-
-
-
