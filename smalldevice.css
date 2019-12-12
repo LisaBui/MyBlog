@@ -1,23 +1,19 @@
 @media only screen and (max-device-width: 480px) {
     body {
         background-image: url("./Background.jpg");
-        border: white 5px dotted;
         text-align: center;
     }
 
     .transbox {
-        margin: 15px;
-        font-size: 12px;
         text-align: justify;
     }
 
     p {
-    margin: 1%;
     color: black;
     }
 
     h1 {
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: Georgia;
         text-transform: uppercase;
         text-align: center;
     }
