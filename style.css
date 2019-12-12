@@ -5,7 +5,7 @@ body {
 }
 
 .transbox {
-    margin: 0 auto;
+    margin: 0 15%;
     background-color: white;
     opacity: 0.5;
     font-size: 24px;
@@ -19,6 +19,7 @@ p {
 }
 
 h1 {
+    margin: 5% auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
@@ -28,3 +29,4 @@ h1 {
     font-weight: bold;
     font-style: italic;
 }
+
