@@ -6,8 +6,6 @@ body {
 
 .transbox {
     margin: 0 15%;
-    background-color: white;
-    opacity: 0.5;
     font-size: 24px;
     text-align: justify;
     max-width: 90%;
@@ -19,7 +17,7 @@ p {
 }
 
 h1 {
-    margin: 5% auto;
+    margin: 0 auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
