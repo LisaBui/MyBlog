@@ -1,7 +1,7 @@
 body {
     background-image: url("./Background.jpg");
-    padding-right: 8cm;
-    padding-left: 8cm;
+    padding-right: 240px;
+    padding-left: 240px;
     border: white 10px dotted;
     text-align: center;
 }
