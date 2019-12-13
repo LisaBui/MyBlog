@@ -1,11 +1,13 @@
 body {
     background-image: url("./Background.jpg");
     border: white 10px dotted;
-    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+    max-width: 90%;
 }
 
 .transbox {
-    margin: 0 15%;
+    margin: 0 auto;
     font-size: 24px;
     text-align: justify;
     max-width: 90%;
@@ -13,7 +15,6 @@ body {
 
 p {
   margin: 5%;
-  color: black;
 }
 
 h1 {
@@ -21,6 +22,15 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
+}
+
+.intro {
+    font-weight: bold;
+    font-style: italic;
+}
+img {
+    display:block;
+    margin: 0 auto;
 }
 
 .intro {
