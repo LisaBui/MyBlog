@@ -1,7 +1,7 @@
 body {
     background-image: url("./Background.jpg");
     border: white 10px dotted;
-    border-radius: 0px;
+    border-radius: 10px;
     width: 960px;
     margin: 0 auto;
     max-width: 90%;
