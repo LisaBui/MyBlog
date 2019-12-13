@@ -1,6 +1,7 @@
 body {
     background-image: url("./Background.jpg");
     border: white 10px dotted;
+    border-radius: 0px;
     width: 960px;
     margin: 0 auto;
     max-width: 90%;
@@ -11,6 +12,8 @@ body {
     font-size: 24px;
     text-align: justify;
     max-width: 90%;
+    border: white solid 10px;
+    border-radius: 10px;
     background-color:white;
     opacity: 0.6;
     
@@ -22,6 +25,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
+    padding: 15px;
 }
 
 .intro {
@@ -35,4 +39,5 @@ p {
 img {
     display:block;
     margin: 0 auto;
+    padding: 10px;
 }
